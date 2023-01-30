@@ -13,7 +13,7 @@ pyenv_activate_command = f'source /home/{user}/pyenvs/discord2/bin/activate'
 
 # ========== Discord
 # Set location of Discord bot token.
-bot_token_file = f'/home/{user}/keys/slime_bot.token'
+bot_token_file = 'OTg2OTQ4NjkyNzAxNTExNjkw.GzYlx8.NJYMe2VUTsem4J_1QgWh5dQ5yKJUxX0erQSSAs'
 command_prefex = '?'
 case_insensitive = True  # Case insensitivy for discord commands. e.g. ?players, ?Players, ?pLaYers
 # Discord Developer Portal > Applications > Your bot > Bot > Enable 'MESSAGE CONTENT INTENT' Under 'Privileged Gateway Intents'
